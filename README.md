@@ -12,3 +12,6 @@
 2. https://www.notion.so/HackTheBox-Beginner-Cheat-Sheet-1f4463c9990c80f58aa0f00dfbff0b16
 3. https://www.stationx.net/common-ports-cheat-sheet/
 
+# tools
+1. https://docs.projectdiscovery.io/tools/subfinder/install
+
