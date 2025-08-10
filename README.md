@@ -21,4 +21,6 @@
 2. https://github.com/aashifm1/BugBounty-Automated-Recons
 3. https://github.com/0xacb/recollapse?tab=readme-ov-file
 4. rork
+5. parse.bot
+6. https://subintel.tushal.io/
 
