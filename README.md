@@ -7,7 +7,7 @@
 5. https://0xpat.github.io/Malware_development_part_1/
 6. https://github.com/Whitecat18/Rust-for-Malware-Development.git
 7. https://xcellerator.github.io/posts/linux_rootkits_01/
-8. https://github.com/vxunderground?tab=repositories
+8. https://github.com/chvancooten/maldev-for-dummies
 
 # resources & cheatsheets
 1. https://cryptocat.me/resources
