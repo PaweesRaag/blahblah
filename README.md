@@ -24,3 +24,12 @@
 5. parse.bot
 6. https://subintel.tushal.io/
 
+# blog
+1. Orange Tsai - https://blog.orange.tw/
+2. theKidOfArcrania - https://thekidofarcrania.com
+3. terjanq - https://tinyxss.terjanq.me
+4. qazbnm456 - https://medium.com/@qazbnm456
+5. ptr-yudai - https://bitbucket.org/ptr-yudai/
+6. p4 (P4 Team) - https://p4.team
+7. justCatTheFish: https://github.com/justcatthefish/ctf-writeups 
+
