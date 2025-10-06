@@ -15,6 +15,7 @@
 3. https://www.stationx.net/common-ports-cheat-sheet/
 4. https://github.com/harisqazi1/Cybersecurity?tab=readme-ov-file#cheat-sheets
 5. https://pwn.college/intro-to-cybersecurity/cryptography/
+6. https://r1ru.github.io/categories/binary-exploitation-101/
 
 # tools
 1. https://docs.projectdiscovery.io/tools/subfinder/install
