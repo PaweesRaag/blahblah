@@ -17,6 +17,7 @@
 4. https://github.com/harisqazi1/Cybersecurity?tab=readme-ov-file#cheat-sheets
 5. https://pwn.college/intro-to-cybersecurity/cryptography/
 6. https://r1ru.github.io/categories/binary-exploitation-101/
+7. https://drive.google.com/drive/folders/1Et_KN46iPvRED1H3ndFrjb2_bd33hcgB (Nahamsec)
 
 # tools
 1. https://docs.projectdiscovery.io/tools/subfinder/install
