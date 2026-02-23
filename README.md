@@ -27,6 +27,7 @@
 4. rork
 5. parse.bot
 6. https://subintel.tushal.io/
+7. https://darkcyan-lobster-333799.hostingersite.com/
 
 # blog
 1. Orange Tsai - https://blog.orange.tw/
