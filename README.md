@@ -18,7 +18,7 @@
 5. https://pwn.college/intro-to-cybersecurity/cryptography/
 6. https://r1ru.github.io/categories/binary-exploitation-101/
 7. https://drive.google.com/drive/folders/1Et_KN46iPvRED1H3ndFrjb2_bd33hcgB (Nahamsec)
-8. https://drive.google.com/drive/folders/1qBEwdWRyA6jvveeVdKLVSdv-uyyowIrm?utm_source=ASURA-LEGION-COMMUNITY
+8. https://drive.google.com/drive/folders/1qBEwdWRyA6jvveeVdKLVSdv-uyyowIrm?utm_source=ASURA-LEGION-COMMUNITY (Forensics by TCM)
 
 # tools
 1. https://docs.projectdiscovery.io/tools/subfinder/install
